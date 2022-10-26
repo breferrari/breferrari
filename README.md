@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @breferrari
+- 👋 Hi, I’m Brenno Ferrari
 - 💼 I work as a macOS Developer @ Nord Security
 - 👀 I’m interested in iOS/iPadOS/macOS development, crafting good UI/UX and machine learning
 
