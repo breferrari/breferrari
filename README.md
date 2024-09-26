@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brenno
-- 💼 I work as a macOS Developer @ Nord Security
+- 💼 I work as a Senior Swift Engineer @ Nord Security
 - 👀 I’m interested in iOS/macOS development, crafting good UI/UX and machine learning
 
 <!---
