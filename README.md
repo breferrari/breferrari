@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brenno
-- 💼 I work as a Senior Swift Engineer @ Nord Security | NordVPN
+- 💼 I work as a Senior iOS Engineer @ Trade Republic
 - 👀 I’m interested in iOS/macOS development, project architecture, modularization, crafting good UI/UX and machine learning
 
 <!---
