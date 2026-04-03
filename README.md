@@ -1,4 +1,6 @@
 - 👋 Hi, I'm Brenno
-- 📱 Senior iOS Engineer @ Trade Republic
-- 🦀 Building Weave — an MCP pack manager for AI CLIs
-- 🔭 Interested in iOS/macOS, developer tooling, and the AI-native dev ecosystem
+- 🏦 Senior iOS Engineer @ Trade Republic
+- 🧠 Creator of [obsidian-mind](https://github.com/breferrari/obsidian-mind) — an Obsidian vault that gives Claude Code persistent memory (200+ ⭐)
+- 🧶 Building [Weave](https://github.com/breferrari/weave) — an MCP pack manager for AI CLIs
+- 🔧 Interested in iOS/macOS, developer tooling, and agentic engineering
+- 🦀 Swift by trade, Rust and Python for fun
