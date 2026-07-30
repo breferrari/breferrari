@@ -9,4 +9,4 @@
 🔧 Interested in iOS/macOS, developer tooling, and agentic engineering  
 📱 Swift by trade • 🔷 TypeScript, 🦀 Rust & 🐍 Python for fun
 
-📍 Berlin, Germany • [brennoferrari.com](https://brennoferrari.com) • [LinkedIn](https://linkedin.com/in/brennoferrari) • [@brennoferrari](https://twitter.com/brennoferrari)
+📍 Berlin, Germany • [brennoferrari.com](https://brennoferrari.com) • [LinkedIn](https://linkedin.com/in/brennoferrari) • [@brennoferrari](https://x.com/brennoferrari)
