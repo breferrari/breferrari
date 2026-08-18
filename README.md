@@ -31,4 +31,4 @@ Generated code is good at looking right. Most of what I build is the environment
 
 ### 🔗 Elsewhere
 
-[brennoferrari.com](https://brennoferrari.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/brennoferrari) &nbsp;·&nbsp; [@brennoferrari](https://x.com/brennoferrari)
+[brennoferrari.com](https://brennoferrari.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/brennoferrari) &nbsp;·&nbsp; [@brennoferrari (X)](https://x.com/brennoferrari)
